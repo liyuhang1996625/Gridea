@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyuhang1996625.github.io</id>
     <title>Lyh自留地</title>
-    <updated>2019-12-26T10:50:50.384Z</updated>
+    <updated>2019-12-27T03:03:14.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyuhang1996625.github.io"/>
     <link rel="self" href="https://liyuhang1996625.github.io/atom.xml"/>
@@ -16,12 +16,5 @@
         <link href="https://liyuhang1996625.github.io/post/zhong-yu-lai-liao">
         </link>
         <updated>2019-12-26T10:42:23.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>终于来了</strong></p>
-<p>我从今年夏天就有了这个念头——个站</p>
-<p>无奈，执行力异于常人之强大～</p>
-<p>现在TA终于跟你我见面了。</p>
-<p>借用程序员的浪漫，</p>
-<p>Hello world～</p>
-]]></content>
     </entry>
 </feed>
