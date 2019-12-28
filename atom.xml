@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyuhang1996625.github.io</id>
     <title>Lyh自留地</title>
-    <updated>2019-12-28T14:25:44.521Z</updated>
+    <updated>2019-12-28T15:39:16.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyuhang1996625.github.io"/>
     <link rel="self" href="https://liyuhang1996625.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://liyuhang1996625.github.io/images/avatar.png</logo>
     <icon>https://liyuhang1996625.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Lyh自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[文身成长记录]]></title>
+        <id>https://liyuhang1996625.github.io/post/wen-shen-cheng-chang-ji-lu</id>
+        <link href="https://liyuhang1996625.github.io/post/wen-shen-cheng-chang-ji-lu">
+        </link>
+        <updated>2019-12-28T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="最先开始想吐槽一个事儿">最先开始，想吐槽一个事儿。</h2>
+<p>tattoo，<strong>文身</strong>，太多太多的人称之为<strong>纹身</strong>了。<br>
+最基本的原理就是是用带有颜色的针刺入皮肤底层而在皮肤上制造一些图案或字眼出来。即指刺破皮肤而在创口敷用颜料使身上带有永久性花纹。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="最先开始想吐槽一个事儿">最先开始，想吐槽一个事儿。</h2>
+<p>tattoo，<strong>文身</strong>，太多太多的人称之为<strong>纹身</strong>了。<br>
+最基本的原理就是是用带有颜色的针刺入皮肤底层而在皮肤上制造一些图案或字眼出来。即指刺破皮肤而在创口敷用颜料使身上带有永久性花纹。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个0-1的项目]]></title>
+        <id>https://liyuhang1996625.github.io/post/di-yi-ge-0-1-de-xiang-mu</id>
+        <link href="https://liyuhang1996625.github.io/post/di-yi-ge-0-1-de-xiang-mu">
+        </link>
+        <updated>2019-12-28T14:33:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习Markdown笔记📝]]></title>
         <id>https://liyuhang1996625.github.io/post/xue-xi-markdown-bi-ji</id>
