@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyuhang1996625.github.io</id>
     <title>Lyh自留地</title>
-    <updated>2019-12-28T15:39:16.657Z</updated>
+    <updated>2019-12-28T15:48:59.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyuhang1996625.github.io"/>
     <link rel="self" href="https://liyuhang1996625.github.io/atom.xml"/>
@@ -23,6 +23,25 @@
         <content type="html"><![CDATA[<h2 id="最先开始想吐槽一个事儿">最先开始，想吐槽一个事儿。</h2>
 <p>tattoo，<strong>文身</strong>，太多太多的人称之为<strong>纹身</strong>了。<br>
 最基本的原理就是是用带有颜色的针刺入皮肤底层而在皮肤上制造一些图案或字眼出来。即指刺破皮肤而在创口敷用颜料使身上带有永久性花纹。</p>
+<!-- more -->
+<p>在7月25日，我完成了我大学的夙愿。身上的第一个文身。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577544740654.JPG" alt=""><br>
+看到了该会问，这是什么意思🤔️<br>
+NOW HERE<br>
+NO WHERE<br>
+我赋予它的定义是：原来之前的绝境距离当下不过是一个空格的距离。</p>
+<h2 id="我摇身一变成了文身学生">我摇身一变成了文身学生</h2>
+<p><img src="https://liyuhang1996625.github.io/post-images/1577546831617.JPG" alt=""><br>
+这是第一次拿起我的机器，画line。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547212734.jpg" alt=""><br>
+这是第一次在练习皮上扎可可爱爱，没有脑袋的小图案。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547272552.JPG" alt=""><br>
+扎了一个目前阶段比较满意的线性发发。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547373469.JPG" alt=""><br>
+第一次上手在人的皮肤上文身。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547457820.JPG" alt=""><br>
+扎完后的效果。<br>
+未完待续...继续更新</p>
 ]]></content>
     </entry>
     <entry>
@@ -31,6 +50,13 @@
         <link href="https://liyuhang1996625.github.io/post/di-yi-ge-0-1-de-xiang-mu">
         </link>
         <updated>2019-12-28T14:33:24.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>毕业之后，来到这个创业团队，一路YY和各种自嗨，这个不靠谱软件就这么上线了。<br>
+请各位看官老爷往下滑动吧👇<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577543703613.png" alt=""><br>
+感谢耐心查看～</p>
+</blockquote>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[学习Markdown笔记📝]]></title>
@@ -38,6 +64,107 @@
         <link href="https://liyuhang1996625.github.io/post/xue-xi-markdown-bi-ji">
         </link>
         <updated>2019-12-27T03:44:21.000Z</updated>
+        <content type="html"><![CDATA[<p>我听到<strong>Markdown</strong>这个词是在2018年夏天一位程序员口中。<br>
+感觉很高大上，其实我根本不知道是啥。<br>
+不知道是啥咱就学呗，整就完了，下面是一份学习笔记。欢迎指教。</p>
+<h1 id="markdown是什么️">Markdown是什么🤔️</h1>
+<blockquote>
+<p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。(官方定义)<br>
+<strong>我认为就是一种写作用符号进行排版的写作方式。</strong></p>
+</blockquote>
+<h1 id="markdown的怎么用️">Markdown的怎么用✍️</h1>
+<p>编写Markdown有很多种语法，常用的有以下几种（其实我只学会了以下几种）</p>
+<h2 id="1标题">1.标题</h2>
+<p>在需要设置标题的文字前面加#来形成标题。在#结束的时候添加空格和标题分开，最多支持六级标题。下面是示意图片。（tips：#号结束之后要与标题文字分开📌）<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577419396101.png" alt=""></p>
+<h2 id="2字体">2.字体</h2>
+<p>字体主要用法有斜体，加粗，斜体加粗，加删除线</p>
+<ul>
+<li>加粗<br>
+前后两个**将文字包裹起来<br>
+<strong>我是加粗文字</strong><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577419689196.png" alt=""></li>
+<li>斜体<br>
+前后一个*将文字包裹起来<br>
+<em>我是斜体文字</em><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420359392.png" alt=""></li>
+<li>斜体加粗<br>
+前后三个***将文字包裹起来<br>
+<em><strong>我是斜体加粗文字</strong></em><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420366808.png" alt=""></li>
+<li>删除线<br>
+前后两个<s>将文字包裹起来(tips：输入</s>需要切换到英文输入法)<br>
+<s>我是删除线文字</s><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420376142.png" alt=""><br>
+字体应该就这几种用法了。继续往下看。</li>
+</ul>
+<h2 id="3引用">3.引用</h2>
+<p>引用很简单，在引用的文字前加&gt;就可以了。也可以叠加嵌套引用，类似于盖楼样式。</p>
+<ul>
+<li>不加嵌套的引用</li>
+</ul>
+<blockquote>
+<p>我是引用1</p>
+</blockquote>
+<blockquote>
+<p>我是引用2</p>
+</blockquote>
+<blockquote>
+<p>我是引用3<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420830450.png" alt=""></p>
+</blockquote>
+<ul>
+<li>添加嵌套引用</li>
+</ul>
+<blockquote>
+<p>我是引用1</p>
+<blockquote>
+<p>我是引用2</p>
+<blockquote>
+<p>我是引用3<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420836616.png" alt=""></p>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="4添加分割线">4.添加分割线</h2>
+<p>只需要三个同样的符号或三个以上就可以。</p>
+<hr>
+<hr>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://liyuhang1996625.github.io/post-images/1577420851400.png" alt=""></figure>
+<h2 id="5图片">5.图片</h2>
+<p>图片这个吧，我觉得Markdown的用法并不简单，还不如直接添加图片来的快。</p>
+<h2 id="6无序列表">6.无序列表</h2>
+<ul>
+<li>
+<p><strong>无序列表</strong><br>
+无序列表用- + *这三个符号任意一个就🉑，注意文字前加空格</p>
+<ul>
+<li>我是无序列表1</li>
+<li>我是无序列表2</li>
+<li>我是无序列表3<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577423696473.png" alt=""></li>
+</ul>
+</li>
+<li>
+<p><strong>有序列表</strong><br>
+数字1 2 3 加点，就🉑️，注意文字前加空格</p>
+<ol>
+<li>我是有序列表1</li>
+<li>我是有序列表2</li>
+<li>我是有序列表3<br>
+<img src="https://liyuhang1996625.github.io/post-images/1577423798913.png" alt=""></li>
+</ol>
+</li>
+</ul>
+<h2 id="7其他语法">7.其他语法</h2>
+<ul>
+<li>代码块</li>
+<li>自动链接</li>
+<li>表格<br>
+还没学到，用到的机会也不多，😁以上。（btw：这篇学习笔记也是用Markdown写的。）</li>
+</ul>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[终于来了...]]></title>
@@ -45,5 +172,12 @@
         <link href="https://liyuhang1996625.github.io/post/zhong-yu-lai-liao">
         </link>
         <updated>2019-12-26T10:42:23.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>终于来了</strong></p>
+<p>我从今年夏天就有了这个念头——个站</p>
+<p>无奈，执行力异于常人之强大～</p>
+<p>现在TA终于跟你我见面了。</p>
+<p>借用程序员的浪漫，</p>
+<p>Hello world～</p>
+]]></content>
     </entry>
 </feed>
