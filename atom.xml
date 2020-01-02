@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyuhang1996625.github.io</id>
     <title>Lyh自留地</title>
-    <updated>2019-12-28T15:48:59.444Z</updated>
+    <updated>2020-01-02T09:56:09.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyuhang1996625.github.io"/>
     <link rel="self" href="https://liyuhang1996625.github.io/atom.xml"/>
     <subtitle>永远年轻，永远热泪盈眶</subtitle>
     <logo>https://liyuhang1996625.github.io/images/avatar.png</logo>
     <icon>https://liyuhang1996625.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Lyh自留地</rights>
+    <rights>All rights reserved 2020, Lyh自留地</rights>
     <entry>
         <title type="html"><![CDATA[文身成长记录]]></title>
         <id>https://liyuhang1996625.github.io/post/wen-shen-cheng-chang-ji-lu</id>
@@ -25,21 +25,21 @@
 最基本的原理就是是用带有颜色的针刺入皮肤底层而在皮肤上制造一些图案或字眼出来。即指刺破皮肤而在创口敷用颜料使身上带有永久性花纹。</p>
 <!-- more -->
 <p>在7月25日，我完成了我大学的夙愿。身上的第一个文身。<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577544740654.JPG" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577544740654.JPG" alt="" loading="lazy"><br>
 看到了该会问，这是什么意思🤔️<br>
 NOW HERE<br>
 NO WHERE<br>
 我赋予它的定义是：原来之前的绝境距离当下不过是一个空格的距离。</p>
 <h2 id="我摇身一变成了文身学生">我摇身一变成了文身学生</h2>
-<p><img src="https://liyuhang1996625.github.io/post-images/1577546831617.JPG" alt=""><br>
+<p><img src="https://liyuhang1996625.github.io/post-images/1577546831617.JPG" alt="" loading="lazy"><br>
 这是第一次拿起我的机器，画line。<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577547212734.jpg" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547212734.jpg" alt="" loading="lazy"><br>
 这是第一次在练习皮上扎可可爱爱，没有脑袋的小图案。<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577547272552.JPG" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547272552.JPG" alt="" loading="lazy"><br>
 扎了一个目前阶段比较满意的线性发发。<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577547373469.JPG" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547373469.JPG" alt="" loading="lazy"><br>
 第一次上手在人的皮肤上文身。<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577547457820.JPG" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577547457820.JPG" alt="" loading="lazy"><br>
 扎完后的效果。<br>
 未完待续...继续更新</p>
 ]]></content>
@@ -53,7 +53,7 @@ NO WHERE<br>
         <content type="html"><![CDATA[<blockquote>
 <p>毕业之后，来到这个创业团队，一路YY和各种自嗨，这个不靠谱软件就这么上线了。<br>
 请各位看官老爷往下滑动吧👇<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577543703613.png" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577543703613.png" alt="" loading="lazy"><br>
 感谢耐心查看～</p>
 </blockquote>
 ]]></content>
@@ -76,26 +76,26 @@ NO WHERE<br>
 <p>编写Markdown有很多种语法，常用的有以下几种（其实我只学会了以下几种）</p>
 <h2 id="1标题">1.标题</h2>
 <p>在需要设置标题的文字前面加#来形成标题。在#结束的时候添加空格和标题分开，最多支持六级标题。下面是示意图片。（tips：#号结束之后要与标题文字分开📌）<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577419396101.png" alt=""></p>
+<img src="https://liyuhang1996625.github.io/post-images/1577419396101.png" alt="" loading="lazy"></p>
 <h2 id="2字体">2.字体</h2>
 <p>字体主要用法有斜体，加粗，斜体加粗，加删除线</p>
 <ul>
 <li>加粗<br>
 前后两个**将文字包裹起来<br>
 <strong>我是加粗文字</strong><br>
-<img src="https://liyuhang1996625.github.io/post-images/1577419689196.png" alt=""></li>
+<img src="https://liyuhang1996625.github.io/post-images/1577419689196.png" alt="" loading="lazy"></li>
 <li>斜体<br>
 前后一个*将文字包裹起来<br>
 <em>我是斜体文字</em><br>
-<img src="https://liyuhang1996625.github.io/post-images/1577420359392.png" alt=""></li>
+<img src="https://liyuhang1996625.github.io/post-images/1577420359392.png" alt="" loading="lazy"></li>
 <li>斜体加粗<br>
 前后三个***将文字包裹起来<br>
 <em><strong>我是斜体加粗文字</strong></em><br>
-<img src="https://liyuhang1996625.github.io/post-images/1577420366808.png" alt=""></li>
+<img src="https://liyuhang1996625.github.io/post-images/1577420366808.png" alt="" loading="lazy"></li>
 <li>删除线<br>
 前后两个<s>将文字包裹起来(tips：输入</s>需要切换到英文输入法)<br>
 <s>我是删除线文字</s><br>
-<img src="https://liyuhang1996625.github.io/post-images/1577420376142.png" alt=""><br>
+<img src="https://liyuhang1996625.github.io/post-images/1577420376142.png" alt="" loading="lazy"><br>
 字体应该就这几种用法了。继续往下看。</li>
 </ul>
 <h2 id="3引用">3.引用</h2>
@@ -111,7 +111,7 @@ NO WHERE<br>
 </blockquote>
 <blockquote>
 <p>我是引用3<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577420830450.png" alt=""></p>
+<img src="https://liyuhang1996625.github.io/post-images/1577420830450.png" alt="" loading="lazy"></p>
 </blockquote>
 <ul>
 <li>添加嵌套引用</li>
@@ -122,7 +122,7 @@ NO WHERE<br>
 <p>我是引用2</p>
 <blockquote>
 <p>我是引用3<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577420836616.png" alt=""></p>
+<img src="https://liyuhang1996625.github.io/post-images/1577420836616.png" alt="" loading="lazy"></p>
 </blockquote>
 </blockquote>
 </blockquote>
@@ -131,7 +131,7 @@ NO WHERE<br>
 <hr>
 <hr>
 <hr>
-<figure data-type="image" tabindex="1"><img src="https://liyuhang1996625.github.io/post-images/1577420851400.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://liyuhang1996625.github.io/post-images/1577420851400.png" alt="" loading="lazy"></figure>
 <h2 id="5图片">5.图片</h2>
 <p>图片这个吧，我觉得Markdown的用法并不简单，还不如直接添加图片来的快。</p>
 <h2 id="6无序列表">6.无序列表</h2>
@@ -143,7 +143,7 @@ NO WHERE<br>
 <li>我是无序列表1</li>
 <li>我是无序列表2</li>
 <li>我是无序列表3<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577423696473.png" alt=""></li>
+<img src="https://liyuhang1996625.github.io/post-images/1577423696473.png" alt="" loading="lazy"></li>
 </ul>
 </li>
 <li>
@@ -153,7 +153,7 @@ NO WHERE<br>
 <li>我是有序列表1</li>
 <li>我是有序列表2</li>
 <li>我是有序列表3<br>
-<img src="https://liyuhang1996625.github.io/post-images/1577423798913.png" alt=""></li>
+<img src="https://liyuhang1996625.github.io/post-images/1577423798913.png" alt="" loading="lazy"></li>
 </ol>
 </li>
 </ul>
