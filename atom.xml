@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyuhang1996625.github.io</id>
     <title>Lyh自留地</title>
-    <updated>2020-01-02T09:56:09.692Z</updated>
+    <updated>2020-01-03T11:07:50.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyuhang1996625.github.io"/>
     <link rel="self" href="https://liyuhang1996625.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://liyuhang1996625.github.io/images/avatar.png</logo>
     <icon>https://liyuhang1996625.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lyh自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[我喜爱的一些小软件Mac/iOS]]></title>
+        <id>https://liyuhang1996625.github.io/post/wo-xi-ai-de-yi-xie-ruan-jian-macios</id>
+        <link href="https://liyuhang1996625.github.io/post/wo-xi-ai-de-yi-xie-ruan-jian-macios">
+        </link>
+        <updated>2020-01-03T03:09:27.000Z</updated>
+        <content type="html"><![CDATA[<p>今天早上，例行在网上学习新知识（冲浪摸鱼）<br>
+这款软件解决的我的痛点是我最近发现的好玩的有用的软件越来越多，<br>
+导致顶部导航栏越来越长...越来越长...越来越长...（都快到了左侧苹果icon那里了）<br>
+机缘巧合发现有人安利一款软件，刚刚好解决了我一个大大的痛点！<br>
+我就来汇总一下，我接触到过的并且在一直使用的一些小软件。</p>
+<h2 id="center第一款center"><center>第一款<center></h2>
+<p><strong><center>Hidden Bar长下面这样<center></strong><br>
+<img src="https://liyuhang1996625.github.io/post-images/1578022115102.png" alt="" loading="lazy"><br>
+<strong><center>使用方法<center></strong><br>
+官方给安排的明明白白<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578023311704.jpg" alt="" loading="lazy"><br>
+简直是拯救我于焦虑之中，我的导航栏里面现在只显示了微信，企业微信，翻译软件，滴答清单，时间日期，电量。（怎么感觉还是好多）我显示这些软件是因为这些软件由于我的个人习惯，大概率是从顶部导航栏触达。这些软件还有消息提示是不能错过的～</p>
+<h2 id="center第二款center"><center>第二款<center></h2>
+<p><strong>mate translate</strong><br>
+它的功能非常单一简单且实用，<br>
+就是翻译 translate支持N多语言，（刚才查看了一下有102种语言）自动检测文字语种。<br>
+还有词典功能，虽然我一次都没用过，但是也不妨碍我非常喜欢这个软件。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578024562692.png" alt="" loading="lazy"><br>
+<strong><center>使用方法<center></strong><br>
+在导航栏点击icon，弹出界面直接输入你要翻译的词。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578025244954.jpg" alt="" loading="lazy"></p>
+<h2 id="center第三款center"><center>第三款<center></h2>
+<p><strong>iPaste</strong><br>
+朴实无华的剪贴板工具，相信有这个痛点的人自然会明白，有这么一个剪贴板工具，效率会提升N多倍。<br>
+Mac App store可直接搜索<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578026517682.png" alt="" loading="lazy"><br>
+<strong><center>使用方法<center></strong><br>
+官方使用教程<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578026744314.png" alt="" loading="lazy"></p>
+<h2 id="center第四款center"><center>第四款<center></h2>
+<p><strong>permute</strong><br>
+这小图标很是可爱，不过是收费98元的软件。有句话说的好，没有花钱的不是。<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578044659514.png" alt="" loading="lazy"><br>
+这是一款视频转换格式工具，但是他不仅仅可以转换视频，图片压缩也是可以办到的～（还是极简风）<br>
+<strong><center>使用方法<center></strong><br>
+拖进去再选择自己想要的格式就OK啦～<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578044621416.png" alt="" loading="lazy"></p>
+<h2 id="center第五款center"><center>第五款<center></h2>
+<p><strong>Foldery</strong><br>
+想象力软件，自定义文件夹颜色的软件。长啥样呢👀使用起来so easy，这样就不怕茫茫文件夹当中找不到那一抹绿了～<br>
+<img src="https://liyuhang1996625.github.io/post-images/1578049387063.png" alt="" loading="lazy"><br>
+<strong><center>使用方法<center></strong><br>
+<img src="https://liyuhang1996625.github.io/post-images/1578049407559.png" alt="" loading="lazy"></p>
+<pre><code>目前这些就是我个人经常使用的就是这几款可以稍微的提高一小下效率的小软件。
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文身成长记录]]></title>
         <id>https://liyuhang1996625.github.io/post/wen-shen-cheng-chang-ji-lu</id>
