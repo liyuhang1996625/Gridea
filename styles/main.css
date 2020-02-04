@@ -984,7 +984,11 @@ td {
         font-family: Georgia, serif;
       }
     
-      body {
-        background: #e9ecef;
+      .main {
+        background: ffffff;
+      }
+    
+      a:hover {
+        color: #66d9e8;
       }
     
